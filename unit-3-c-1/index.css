@@ -1,0 +1,52 @@
+   /* <-------------------product css start-------------------> */
+   *{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+          }
+          #navbar{
+          height: 50px;
+          margin-bottom: 20px;
+          background-color: rgb(140, 248, 248);
+          box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+          }
+          #formBox{
+            text-align: center;
+            width: 30%;
+            margin: auto;
+            padding: 10px;
+            box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+            border-radius: 10px;
+          }
+          #formBox>h2{
+           margin-bottom: 20px;
+          }
+          #formBox input{
+            height: 25px;
+            padding: 5px;
+            margin: auto;
+            display: block;
+            border: none;
+            border-radius: 7px;
+            width: 80%;
+            background-color: antiquewhite;
+            margin-bottom: 20px;
+          }
+      #add_product,#show_products{
+        margin-top: 10px;
+      padding: 5px;
+      text-align: center;
+      border: none;
+      font-size: 17px;
+      font-weight: 550;
+      color: white;
+      border-radius: 7px;
+      background-color: rgb(62, 177, 243);
+    
+    }
+     #add_product:hover,#show_products:hover{
+      background-color: rgb(134, 223, 250);
+      color: black;
+      
+    }
+     /* <-------------------product css end-------------------> */
