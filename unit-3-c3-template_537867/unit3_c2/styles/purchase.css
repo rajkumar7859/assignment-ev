@@ -1,0 +1,12 @@
+#navbar{
+    border:  1px solid red;
+    display: flex;
+    justify-content: space-evenly;
+     }
+     #purchased_vouchers{
+       display: grid;
+       grid-template-columns: repeat(4,1fr);
+       grid-template-rows: repeat(auto);
+       gap: 20px;
+       text-align: center;
+     }

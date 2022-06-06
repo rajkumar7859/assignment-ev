@@ -1,0 +1,17 @@
+#navbar{
+    border:  1px solid red;
+    display: flex;
+    justify-content: space-evenly;
+     }
+     #SignUp{
+ border: 1px solid blue;
+ width: 40%;
+ margin: auto;
+ text-align: center;
+     }
+     #form input{
+       display: block;
+       margin: auto;
+       margin-bottom: 20px;
+       padding: 7px;
+     }
